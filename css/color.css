@@ -7,7 +7,7 @@ a, a:focus { color: #fff; }
 a:hover {color: white; }
 a.active {color: white; }
 
-.btn {color: #fff;  background: white; border: 1px solid white; border-color: white;}
+.btn {color: grey;  background: white; border: 1px solid white; border-color: white;}
 .btn:hover {color: #fff;}
 .btn:before{background: -webkit-radial-gradient(center, ellipse, rgba(39, 3, 106, 0.5) 0%, rgba(0, 0, 0, 0) 80%); background: radial-gradient(ellipse at center, rgba(39, 3, 106, 0.5) 0%, rgba(0, 0, 0, 0) 80%);}
 .owl-dot{background: #fff !important;}
