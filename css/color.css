@@ -87,7 +87,7 @@ a.active {color: white; }
 
 /*----- Menu -----*/
 .menu ul li a:before{background: white;}
-header.fixed{background: rgb(58, 7, 152, .95);}
+header.fixed{background: #030F12;}
 .opener:before, .opener:after{background: #fff;}
 .menu-toggle span, .menu-toggle span:before, .menu-toggle span:after{background: #fff;}
 header.fixed .menu-toggle span, header.fixed .menu-toggle span:before, header.fixed .menu-toggle span:after{background: #fff;}
