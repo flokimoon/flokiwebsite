@@ -14,8 +14,8 @@ a.active {color: #da4bfd; }
 .owl-dot.active {background: #da4bfd !important;}
 
 #preloader{
-	background: center no-repeat #470fac;
-	/* background: url(../images/bbP/sticker1.png) center no-repeat #470fac; */
+	background: center no-repeat EB3F33;
+	/* background: url(../images/bbP/sticker1.png) center no-repeat EB3F33; */
 	background-size: 150px;
 	-webkit-transition: all 0.3s ease-out;
 	transition: all 0.3s ease-out;
@@ -80,7 +80,7 @@ a.active {color: #da4bfd; }
 .heading-title-2 span, .sub-heading {color: #da4bfd;}
 .sub-page-banner{background-color: #410ca3;}
 .skyblue{background-color: #EB3F33;}
-.darkblue{background-color: #470fac;}
+.darkblue{background-color: EB3F33;}
 .top-scroll {background: #da4bfd; color: #fff;}
 .top-scroll:hover {opacity: 0.6;}
 .top-scroll a{color: #fff;}
@@ -97,7 +97,7 @@ header.fixed .menu-toggle span, header.fixed .menu-toggle span:before, header.fi
 .home-banner{background-color: #EB3F33;}
 
 /*----- Work Section -----*/
-ul.check-list li span{background: #fff; color: #470fac;}
+ul.check-list li span{background: #fff; color: EB3F33;}
 
 /*----- Feature Section -----*/
 .feature-title:hover {color: #da4bfd;}
@@ -147,7 +147,7 @@ ul.check-list li span{background: #fff; color: #470fac;}
 
 /*----- Roadmap Section -----*/
 .roadmap-part .v-row, .roadmap-part .h-border, .roadmap-des {border-color: #da4bfd;}
-.roadmap-part .small-round {background: #470fac;}
+.roadmap-part .small-round {background: EB3F33;}
 
 /*----- team Tow Section -----*/
 .team-box-2{background: #fff;}
@@ -169,7 +169,7 @@ ul.check-list li span{background: #fff; color: #470fac;}
 
 /*----- About Page -----*/
 .sub-page-banner ul li:before{background: #fff;}
-.play-icon span{border-color: #470fac; background: #fff; color: #470fac;}
+.play-icon span{border-color: EB3F33; background: #fff; color: EB3F33;}
 .play-icon:hover span{border-color: #fff; background: #da4bfd; color: #fff;}
 .work-part button.close{color: #fff;}
 button.close{color: #fff;}
